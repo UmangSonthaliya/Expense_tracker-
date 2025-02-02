@@ -38,6 +38,8 @@ The Expense Tracker App helps users manage their personal finances by allowing t
 ## System Architecture
 The system follows a **microservices architecture**:
 
+![System Architecture Diagram](https://github.com/UmangSonthaliya/Expense_tracker-/blob/main/HLD.png?raw=true)
+
 ### Components:
 1. **Client:** User interface for interacting with the application.
 2. **API Gateway:** Manages all client requests and handles tokenization for security.
